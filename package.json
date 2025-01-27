@@ -1,0 +1,19 @@
+{
+  "name": "joodi",
+  "version": "1.0.0",
+  "description": "Joodi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiladJoodi/Joodi"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Joodi",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}
