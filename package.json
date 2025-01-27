@@ -1,13 +1,13 @@
 {
   "name": "joodi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Joodi",
   "repository": {
     "type": "git",
     "url": "https://github.com/MiladJoodi/Joodi"
   },
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
